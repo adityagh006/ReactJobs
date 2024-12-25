@@ -86,35 +86,41 @@ Copyreactjobs/
   - Filter and search functionality
   - Detailed view for each job listing
 
-Job Management
+### Job Management
+  - Add new job listings with company details
+  - Edit existing job information
+  - Remove job listings
+  - View company information
 
-Add new job listings with company details
-Edit existing job information
-Remove job listings
-View company information
 
-Contributing
+### Contributing
+1. Fork the repository
+2. 
+3. Create your feature branch
+bash
+```
+git checkout -b feature/YourFeature
+```
 
-Fork the repository
-Create your feature branch
+3.Commit your changes
+bash
+```
+git commit -m 'Add some feature'
+```
 
-bashCopygit checkout -b feature/YourFeature
+4. Push to the branch
+bash
+```
+git push origin feature/YourFeature
+```
 
-Commit your changes
+5. Create a new Pull Request
 
-bashCopygit commit -m 'Add some feature'
-
-Push to the branch
-
-bashCopygit push origin feature/YourFeature
-
-Create a new Pull Request
-
-License
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
-Acknowledgments
 
-React Router for the routing solution
-Tailwind CSS for the styling framework
-Vite for the build tool
-JSON Server for the mock backend
+### Acknowledgments
+- React Router for the routing solution
+- Tailwind CSS for the styling framework
+- Vite for the build tool
+- JSON Server for the mock backend
